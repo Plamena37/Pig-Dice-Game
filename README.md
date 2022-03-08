@@ -1,6 +1,8 @@
 # Pig Dice Game!
 
-## This is Pig Dice Game! 🐷
+
+## This is [Pig Dice Game](https://plamena37.github.io/Pig-Dice-Game/)! 🐷
+
 
 ### 💯 It is a simple dice game, in which the goal is to be the first one that reaches a hunderd or more points. 
 
